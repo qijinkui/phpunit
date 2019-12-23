@@ -1,6 +1,6 @@
 {
-    "name": "phpunit/phpunit",
-    "description": "The PHP Unit Testing framework.",
+    "name": "lanka/phpunit",
+    "description": "The PHP Unit Testing framework.  testing",
     "type": "library",
     "keywords": [
         "phpunit",
